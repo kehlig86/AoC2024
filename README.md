@@ -10,3 +10,5 @@ This Day is the Introduction Day with some Basics to Python, Installation, Edito
 On that Day the Task is to find 1) the total distance and 2) the similarity Score between the left list and the right list
 - [Day 2](Day2/TOC.md):  
 On that Day the Task is to 1) Analyze how many reports are considered "safe" based on the rule that all numbers must either gradually increase or decrease by 1 to 3. and 2) Additionally, allow the removal of a single number to potentially turn an "unsafe" report into a "safe" one and determine how many reports are now safe.
+- [Day 3](Day3/TOC.md):  
+On that day, the task is to 1) read a list of textual instructions, extract and validate specific mul(X, Y) patterns based on defined rules, calculate their products, and output the total sum and 2) additionally exclude instructions following a don't() marker, recalculate the products, and output the updated total sum.
