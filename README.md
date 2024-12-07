@@ -7,6 +7,6 @@ In this Repository you will find a short Intro to Python and for each Puzzle of 
 - [Day 0](Day0/TOC.md):  
 This Day is the Introduction Day with some Basics to Python, Installation, Editors and 10 little Tasks
 - Day 1:  
-On that Day
+On that Day the Task is to find 1) the total distance and 2) the similarity Score between the left list and the right list
 - Day 2:  
 On that Day
